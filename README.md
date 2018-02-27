@@ -78,7 +78,7 @@
 
 
 # 我个人的房源选择（我现买楼盘之前）
-![流程图](http://oaped1dun.bkt.clouddn.com/fangyuanxuanze.png)
+![流程图](https://github.com/itbirds/2017_wuhan_house_experience/blob/master/images/fangyuanxuanze.png)
 
 # 二手房购买流程
 ![流程图](http://oaped1dun.bkt.clouddn.com/ershoufang.png)
