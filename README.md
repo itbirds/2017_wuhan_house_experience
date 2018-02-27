@@ -81,7 +81,7 @@
 ![流程图](http://oaped1dun.bkt.clouddn.com/%E6%AD%A6%E6%B1%89-%E7%9C%9F%E5%AE%9E%E6%88%BF%E6%BA%90%E9%80%89%E6%8B%A9.png)
 
 # 二手房购买流程
-![流程图](http://oaped1dun.bkt.clouddn.com/%E4%B9%B0%E4%BA%8C%E6%89%8B%E6%88%BF%E6%B5%81%E7%A8%8B.png)
+![流程图](http://oaped1dun.bkt.clouddn.com/ershoufang.png)
 
 # 新房购买流程
 	1.买or不卖房子
